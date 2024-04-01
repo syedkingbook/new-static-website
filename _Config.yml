@@ -1,8 +1,8 @@
 # Site settings
 title: "A one stop shop for technical documentation"
 author:
-  name: NAME
-  email: EMAIL ADDRESS
+  name: My_name
+  email: abc@xyz.com
 description: Where action and documentation meet
 # Build setting
 remote_theme: Jekyll/minima
