@@ -3,6 +3,6 @@ title: A one stop shop for technical documentation
 author:
   name: My_name
   email: abc@xyz.com
-description: "Where action and documentation meet"
+description: Where action and documentation meet
 # Build setting
 remote_theme: jekyll/minima
